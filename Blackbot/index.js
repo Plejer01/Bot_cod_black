@@ -86,7 +86,7 @@ if(command == "error"){
 
 if(command == "info"){
     var embed = new Discord.MessageEmbed()
-    .setDescription("***Najnowszy odcinek na kanale blackis09 zostaw łapeczke i suba :)***\nhttps://youtu.be/d78zTrLWQR0 \n***Najnowszy zapisek live na kanale Blackis09 zostaw łapeczke i suba :)***\n https://youtu.be/dYcKkPXfXwg")
+    .setDescription("***Najnowszy odcinek na kanale Blackis YT zostaw łapeczke i suba :)***\nhttps://youtu.be/d78zTrLWQR0 \n***Najnowszy zapisek live na kanale Blackis YT zostaw łapeczke i suba :)***\n https://youtu.be/dYcKkPXfXwg")
     .setTitle("powiadomienia Youtube")
     .setColor(`#800080`)
     .setImage('https://www.niemanlab.org/images/subscribe-animation.gif')
